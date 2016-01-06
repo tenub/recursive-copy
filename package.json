@@ -50,6 +50,7 @@
     "promise": "^7.0.1"
   },
   "devDependencies": {
+    "@timkendrick/node-project": "^1.0.8",
     "chai": "^2.3.0",
     "chai-as-promised": "^5.0.0",
     "eslint": "^0.21.2",
