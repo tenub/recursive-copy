@@ -44,7 +44,7 @@
     "emitter-mixin": "0.0.3",
     "errno": "^0.1.2",
     "extend": "^2.0.1",
-    "graceful-fs": "^3.0.6",
+    "graceful-fs": "^4.1.3",
     "junk": "^1.0.1",
     "maximatch": "^0.1.0",
     "mkdirp": "^0.5.1",
